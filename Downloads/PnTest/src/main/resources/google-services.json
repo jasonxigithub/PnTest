@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "230625962787",
+    "firebase_url": "https://transmit-test.firebaseio.com",
+    "project_id": "transmit-test",
+    "storage_bucket": "transmit-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230625962787:android:37aa048803d2c47b",
+        "android_client_info": {
+          "package_name": "com.transmit.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230625962787-3nnfu3rsa33lt3bpkq7b3l3pb7s6h1ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxeYHGLPkwPXqU9EXLxc8IlEVke0EzzlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230625962787-3nnfu3rsa33lt3bpkq7b3l3pb7s6h1ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
