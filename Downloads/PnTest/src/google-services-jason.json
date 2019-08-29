@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "667978211332",
+    "firebase_url": "https://eastern-button-248303.firebaseio.com",
+    "project_id": "eastern-button-248303",
+    "storage_bucket": "eastern-button-248303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667978211332:android:37aa048803d2c47b",
+        "android_client_info": {
+          "package_name": "com.transmit.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667978211332-dtt9iepl7889meblrsed48eiiafsttr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.transmit.demoapp",
+            "certificate_hash": "a03b1ace4695a66fa016c09e5c99378ca30589ea"
+          }
+        },
+        {
+          "client_id": "667978211332-u0ojn9h6vd19ho3rqf4aghpq806pj97t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJM0jBX0H_Yt_D01CedwD2h3GzQpLRgNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667978211332-u0ojn9h6vd19ho3rqf4aghpq806pj97t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
